@@ -1,5 +1,4 @@
 # Media Online per la Parità di Genere
-......
 Questo progetto è un sistema sviluppato in TypeScript che modella le operazioni di un media online dedicato alla parità di genere, facilitando interazioni tra professioniste dei media, programmi di formazione e piattaforme di pubblicazione. 
 
 ## Struttura delle Classi e delle Interfacce
